@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on ... Java , OPPs, Spring Boot and MySql<br>🌱 I’m currently learning ... Linus/Backend<br>💬 Ask me about anything in java  I will answer<br>⚡ Fun fact : I love coding , playing chess and volleyball<br>
 
-[![](https://visitcount.itsvg.in/api?id=AkankitAk&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-ak-ak) 
@@ -18,5 +18,6 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=AkankitAk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
