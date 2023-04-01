@@ -1,3 +1,5 @@
+ <img alt="india flag gif" height="400" width="100%" src="https://media.tenor.com/RfsAKMobQN0AAAAd/stickman.gif"><br> 
+
 # 💫 About Me:
 🔭 I’m currently working on ... Java , OPPs, Spring Boot and MySql<br>🌱 I’m currently learning ... Linux/Backend<br>💬 Ask me about anything in java  I will answer<br>⚡ Fun fact : I love coding , playing chess and volleyball<br>
 
