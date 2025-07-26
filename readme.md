@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on -- Java , OPPs, Spring Boot and MySql<br>🌱 I’m currently learning -- Linux/Backend<br>💬 Ask me about anything in java  I will answer<br>⚡ Fun fact -- I love coding , playing chess and volleyball<br>
- 📫 How to reach me -- **akankit@gmail.com** <br>
+ 📫 How to reach me -- **akankitag@gmail.com** <br>
 📄 Resume -- <a href="https://docs.google.com/document/d/1JMsJ66zv5w01v63aSZxnWhwf9BcRyjHRQdRZgPu096k/edit"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 
